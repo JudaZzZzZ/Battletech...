@@ -1,0 +1,169 @@
+generator:Mordel.Net Code Release 2.26.25 on 23-Oct-2026
+chassis:Urbewohner
+model:UWR-1
+source:Custom Mordel.Net Units
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3067
+Rules Level:4
+
+Mass:45
+Engine:225 Fusion Engine(IS)
+Structure:IS Standard
+Myomer:Triple-Strength
+
+Heat Sinks:14 Single
+Walk MP:5
+Jump MP:0
+
+Armor:Standard (IS)
+LA Armor:14
+RA Armor:14
+LT Armor:18
+RT Armor:18
+CT Armor:22
+HD Armor:9
+LL Armor:22
+RL Armor:22
+RTL Armor:4
+RTR Armor:4
+RTC Armor:5
+
+Weapons:8
+Small Laser, Center Torso
+Small Laser, Center Torso
+Machine Gun, Right Torso
+Machine Gun, Right Torso
+Small Laser, Left Torso
+Small Laser, Left Torso
+Small Laser, Left Torso
+Bombast Laser, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Bombast Laser
+Bombast Laser
+Bombast Laser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Heat Sink
+Small Laser
+Small Laser
+Small Laser
+TSM
+TSM
+TSM
+TSM
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+ISMG
+ISMG
+IS Machine Gun Ammo - Half
+Heat Sink
+Heat Sink
+Heat Sink
+TSM
+TSM
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Small Laser
+Small Laser
+
+Head:
+Life Support
+Sensors
+Cockpit
+Heat Sink
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Leg:
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+
